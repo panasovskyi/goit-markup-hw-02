@@ -1,0 +1,23 @@
+:root {
+    --title-color:#212121;
+    --accent-color: #2196f3;
+    --border-radius: 4px;
+    --border: 1px solid #eee;
+    --head-foot-fz: 14px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #757575;
+}
+
+/*HEADER*/
+
+.header .logo {
+    font-size: 200px;
+    font-family: "Raleway", sans-serif;
+}
+
+.nav {
+    display: flex;
+}
